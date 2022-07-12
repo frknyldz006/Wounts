@@ -3,4 +3,6 @@
 > Built with Flutter
 
 *You can easily track your daily amount of drank water*
-![Home Screen](https://drive.google.com/file/d/1Fo-_x27Earz8oMJ8nHwwX1MCcNr6SQNT/view?usp=sharing)
+![Home Screen](https://ibb.co/7K1LBKR)
+![About](https://ibb.co/jHDwk90)
+![Tracked Amounts](https://ibb.co/xYg1g73)
